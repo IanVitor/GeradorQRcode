@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://ianvitor.github.io/DevFy/"><img alt="DevFy Banner" title="Devfy" src="assets/images/DevFy_banner.png" width="300px" /></a>
+    <a href="https://ianvitor.github.io/DevFy/"><img alt="QRcode Banner" title="QRcode" src="./src/QRcode_banner.png" width="300px" /></a>
 </h1>
 
 <div align="center">
