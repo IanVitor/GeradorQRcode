@@ -1,9 +1,9 @@
 <h1 align="center">
-    <a href="https://ianvitor.github.io/DevFy/"><img alt="QRcode Banner" title="QRcode" src="./src/QrConverter.png" width="300px" /></a>
+    <a href="https://ianvitor.github.io/GeradorQRcode/"><img alt="QRcode Banner" title="QRcode" src="./src/QrConverter.png" width="300px" /></a>
 </h1>
 
 <div align="center">
-    <h3> 🟣 Gere seus QRcodes facilmente! 🟣 </h3>
+    <h3> 🔵 Gere seus QRcodes facilmente! 🔵 </h3>
 </div>
 
 ## QR Converter - QRcode Generator
